@@ -10,7 +10,7 @@ a. 電子學簡介 :
 > * CPU, 記憶體 (Flash ROM, RAM), I/O (Input/Output) - analogue/digital, mic, speaker, led, sensors, RLC （電阻/電感/電容), 網路  
   
 b. Arduino 簡介 :   
-> * Arduino 及其週邊, 是現今電子產品開發門檻最低的設計架構, 當初是針對設計系所, 完全沒有電子背景的學生所開發, 持續發展成為一個完整的生態系統. 學生可以自行購買 Arduino 套件操作, 但非必要.   
+> * Arduino 及其週邊, 是現今電子產品開發門檻最低的設計架構, 當初是針對設計系所, 完全沒有電子背景的學生所開發, 持續發展成為一個完整的生態系統. 有興趣者可以自行購買 Arduino 套件操作, 但非必要.   
  
 c. TinyML （TensorFlow Lite Micro) 介紹及實作  
 > * TinyML 簡介 : TinyML 應用場景及適用場域
