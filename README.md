@@ -1,5 +1,5 @@
 # TinyML-ABC
-TinyML-ABC for those who knows ML but no electronic background. The target audience is for people in Taiwan who will do hand-on TinyML so it is mainly written in Mandarin.
+TinyML-ABC is for those who knows ML but without any electronic background. Focus on people in Taiwan who will do hand-on of TinyML so it is mainly written in Mandarin.
 
 ## 目標 : 
 * 提供無電子技術背景可以快速了解 TinyML 應用, 軟硬結合 Tensorflow 機器學習與電子硬體產品, 更清楚 Edge AI 的運作原理
@@ -14,3 +14,6 @@ c. TinyML （TensorFlow Lite Micro) 介紹及實作
 > * TinyML 應用之二 : Micro Speech (或叫做 key word spotting) 喚醒詞(關鍵字)偵測, 需要筆電及 Arduino Nano 33 BLE Sense
 機器學習之訓練過程可以使用 Colab, 或是 Edge Impulse
 > * TinyML 應用之三 : Person detection 人體偵測, 需要筆電及 ESP32-CAM (約 400台幣)
+
+## 簡報檔
+[TinyML-ABC - Google Slides](https://docs.google.com/presentation/d/1pYT4YQo0WA-5GDxh4bOOzH9YolcFd7o8fFzfEluVxBY/edit?usp=sharing)
