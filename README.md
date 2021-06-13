@@ -1,5 +1,5 @@
 # TinyML-ABC
-TinyML-ABC is for those who knows ML but without any electronic background. Focus on people in Taiwan who will do hand-on of TinyML so it is mainly written in Mandarin.
+TinyML-ABC is for those who knows ML (Machine Learning) but without any electronic background. Focus on people in Taiwan who will do hand-on of TinyML so it is mainly written in Mandarin.
 
 ## 目標 : 
 * 提供無電子技術背景可以快速了解 TinyML 應用, 軟硬結合 Tensorflow 機器學習與電子硬體產品, 更清楚 Edge AI 的運作原理
