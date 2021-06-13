@@ -1,8 +1,10 @@
 # TinyML-ABC
 TinyML-ABC for those who knows ML but no electronic background. The target audience is for people in Taiwan who will do hand-on TinyML so it is mainly written in Mandarin.
 
-## 目標 : 提供無電子技術背景可以快速了解 TinyML 應用, 軟硬結合 Tensorflow 機器學習與電子硬體產品, 更清楚 Edge AI 的運作原理
-## 先修課程 : 對機器學習及 Tensorflow 有基本概念, 操作過 colab 為佳.
+## 目標 : 
+* 提供無電子技術背景可以快速了解 TinyML 應用, 軟硬結合 Tensorflow 機器學習與電子硬體產品, 更清楚 Edge AI 的運作原理
+## 先修課程 : 
+* 對機器學習及 Tensorflow 有基本概念, 操作過 colab 為佳.
 ## 內容 :
 1. 電子學簡介 : CPU, 記憶體 (Flash ROM, RAM), I/O (Input/Output) - analogue/digital, mic, speaker, led, sensors, RLC （電阻/電感/電容), 網路
 2. Arduino 簡介 ： Arduino 及其週邊, 是現今電子產品開發門檻最低的設計架構, 當初是針對設計系所, 完全沒有電子背景的學生所開發, 持續發展成為一個完整的生態系統. 學生可以自行購買 Arduino 套件操作, 但非必要.
