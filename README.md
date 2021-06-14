@@ -22,5 +22,5 @@ c. TinyML (TensorFlow Lite Micro) 介紹及實作
 ## 簡報檔
 [TinyML-ABC - Google Slides](https://docs.google.com/presentation/d/1pYT4YQo0WA-5GDxh4bOOzH9YolcFd7o8fFzfEluVxBY/edit?usp=sharing)
 
-## Tensorflow Lite Micro (TFLM) 的電子書
+## 參考 Tensorflow Lite Micro (TFLM) 的電子書
 [TFLM rbook - github.io - marconi1964](https://marconi1964.github.io/TensorFlowLiteMicro/index.html)
